@@ -60,11 +60,11 @@ Skills Demonstrated
 
 Repository Contents
 
-README.md
-Sales Overview Dashboard.pbix
-Data Report.pdf
-dashboard.png
-Superstore.xlsx
+* README.md
+* Sales Overview Dashboard.pbix
+* Data Report.pdf
+* dashboard.png
+* Superstore.xlsx
 
 Author
 
