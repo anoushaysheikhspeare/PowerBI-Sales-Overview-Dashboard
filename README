@@ -1,0 +1,71 @@
+SALES OVERVIEW DASHBOARD - POWERBI
+
+Project Overview
+
+This project presents an interactive Sales Overview Dashboard developed in Power BI using the Sample Superstore dataset. The dashboard is designed to provide a quick summary of business performance through key performance indicators and visualizations, enabling users to monitor sales, profitability, and order trends.
+
+Objective
+
+Develop a dashboard that enables management to:
+* Monitor Total Sales
+* Track Total Profit
+* Analyze Total Orders
+* Compare Sales by Category
+* Observe Sales Trends over Time
+
+Dataset
+
+Dataset: Sample Superstore
+Source: kaggle.com
+Records: Customer orders containing sales, profit, category, region, shipping, and order information.
+
+
+Tools Used
+
+* Power BI Desktop
+* Power Query
+* DAX
+* Data Visualization
+
+Dashboard Features
+
+* KPI Cards (Total Sales, Total Profit, Total Orders)
+* Sales by Category
+* Monthly Sales Trend
+* Interactive Filters/Slicers
+* Clean business dashboard layout
+
+Key Insights
+
+1. Overall sales show an upward trend with occasional fluctuations.
+2. Sales generally increase during the June to August period.
+3. Sales consistently peak around September.
+4. The Central region records the highest number of sales and orders.
+5. Despite having the highest sales volume, the Central region generates relatively lower profit.
+6. The South region achieves comparatively higher profitability despite recording fewer sales and orders.
+
+Business Value
+
+This dashboard allows decision-makers to quickly evaluate sales performance, identify seasonal trends, compare regional profitability, and monitor category performance, supporting informed business decisions.
+
+Skills Demonstrated
+
+* Data Cleaning
+* Data Modeling
+* KPI Design
+* Dashboard Development
+* Business Intelligence
+* Data Visualization
+* Business Insight Generation
+
+Repository Contents
+
+README.md
+Sales Overview Dashboard.pbix
+Data Report.pdf
+dashboard
+SampleSuperstore.csv
+
+Author
+
+*Anoushay Sheikh**
